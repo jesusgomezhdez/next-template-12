@@ -1,0 +1,2 @@
+# next-template-12
+TEMPLATE PARA PROYECTOS CON NEXT JS 12
